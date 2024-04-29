@@ -23,4 +23,4 @@ Average number of patient seen is 2499 which is very high. Number of staff is no
 
 <img width="956" alt="image" src="https://github.com/rita-uchennoka/Hospital-data/assets/162928966/f0281126-904e-48cb-bb32-35bd13a03ca5">
 
-From the data, patient seeing Anchor Doctor type is very compare to other doctors'tpye. Therefore there is need for effecient resource allocation. 
+From the data, patient seeing Anchor Doctor type is very high compare to other doctors'tpye. Therefore there is need for effecient resource allocation. 
