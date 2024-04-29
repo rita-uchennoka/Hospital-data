@@ -30,3 +30,11 @@ Finding how much patients wait before the doctor can see them?
 <img width="905" alt="image" src="https://github.com/rita-uchennoka/Hospital-data/assets/162928966/7b970bcf-9bfd-4893-bb59-82679ca9852e">
 
 The analysis shows the average waiting time with reference to the doctor's type. 
+
+
+Finding what day of the week are affected
+
+<img width="914" alt="image" src="https://github.com/rita-uchennoka/Hospital-data/assets/162928966/3e2e4a1a-f2b5-4e8b-a22d-c285bf0916c6">
+
+From the analysis, Monday's are the most busiest day of the week. Effecient resource allocation is needed to service quality. 
+
