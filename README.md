@@ -1,4 +1,4 @@
-# Hospital-data
+ # Hospital-data
 
 first question -Does the patient type affect the waiting time?
 
