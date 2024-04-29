@@ -18,3 +18,9 @@ Result showing Average number of patient seen daily.
 
 <img width="926" alt="image" src="https://github.com/rita-uchennoka/Hospital-data/assets/162928966/07a0d538-2fc3-48a5-abd9-a0ae3c48298b">
 Average number of patient seen is 2499 which is very high. Number of staff is not given in this data. Management therefore match the ratio of patients to staff.
+
+**Finding-Do we have staffing issues?,What type of staff do we need or where do we need them?
+
+<img width="956" alt="image" src="https://github.com/rita-uchennoka/Hospital-data/assets/162928966/f0281126-904e-48cb-bb32-35bd13a03ca5">
+
+From the data, patient seeing Anchor Doctor type is very compare to other doctors'tpye. Therefore there is need for effecient resource allocation. 
