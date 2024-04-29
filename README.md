@@ -34,7 +34,8 @@ The analysis shows the average waiting time with reference to the doctor's type.
 
 Finding what day of the week are affected
 
-<img width="914" alt="image" src="https://github.com/rita-uchennoka/Hospital-data/assets/162928966/3e2e4a1a-f2b5-4e8b-a22d-c285bf0916c6">
+<img width="925" alt="image" src="https://github.com/rita-uchennoka/Hospital-data/assets/162928966/11c59bc7-effe-4d2d-9709-9fa842254faa">
+
 
 From the analysis, Monday's are the most busiest day of the week. Effecient resource allocation is needed to service quality. 
 
